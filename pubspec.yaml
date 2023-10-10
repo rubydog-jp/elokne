@@ -1,0 +1,27 @@
+name: app
+description: Make an optimal art with limited dots
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod:
+  flutter_hooks:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: k12x8
+      fonts:
+        - asset: assets/k12x8.ttf

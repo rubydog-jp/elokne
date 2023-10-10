@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "elokne-play"
+  },
+  "targets": {
+    "elokne-play": {
+      "hosting": {
+        "elokne": [
+          "elokne"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
