@@ -1,7 +1,12 @@
 ![Header](https://github.com/rubydog-jp/elokne/blob/main/docs/assets/images/elokne-header.png?raw=true)
 
-限られたドット数でテーマに沿った絵を書くゲーム
-Make an art with limited dots.
+限られたドット数でテーマに沿った絵を書こう！  
+10 秒で遊べるバカゲー&カジュアルゲーム
+
+↓ スマホで遊ぶ (インストール不要)
+(https://elokne.web.app/)(https://elokne.web.app/)
+
+<br />
 
 # ライセンス
 
